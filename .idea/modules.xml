@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hw-03-mongoDB.iml" filepath="$PROJECT_DIR$/.idea/hw-03-mongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw-04-auth.iml" filepath="$PROJECT_DIR$/.idea/hw-04-auth.iml" />
     </modules>
   </component>
 </project>
